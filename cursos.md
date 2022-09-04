@@ -2,19 +2,22 @@
 
 Esta lista es un recopilado de cursos gratuitos para aprender a programar sin experiencia previa. La única motivación es tener una lista fácil de compartir con aquellas personas que quieran aprender pero no puedan estudiar en la universidad o estén cambiando de carrera.
 
-En general la industria se divide en: desarrollo web y ciencia de datos.
+En general la industria (que tienen puestos más accesibles para quienes recién arrancan) se divide en: desarrollo web y ciencia de datos.
 
 Para desarrollo web se tiene dos áreas:
 
 - back-end: hacen la lógica por detrás de las páginas web. Java, Go, SQL 
-- front-end: hacen la parte visible de las páginas web. Html, CSS, Javascript, Reac
-- UX: hacen experiencia de usuario (no hay programación)
+- front-end: hacen la parte visible de las páginas web. Html, CSS, Javascript, React
+- hay otras como:
+	- UX: hacen experiencia de usuario (no hay programación -creo- y suele ser buena opción para quienes vengan de sociales/comunicación)
+	- analista de calidad (todo lo relacionado a quality, no conozco mucho del área :( )
 
 Por otro lado, en ciencia de datos suele haber los siguientes roles:
 
 - analista de datos: hacen visualización y gráficos de datos, análisis exploratorio de datos (EDA). Python, R.
 - científiques de datos: hacen EDA, feature engineering y desarrollo de modelos usando machine learning/aprendizaje automático. Python, R, SQL
 - ingienería de datos: procesas grandes volúmenes de datos, hacen peticiones de base de datos, tranforman y preparan datos para dejarlo limpios para les analistas y científiques. Python, SQL, Spark (pyspark), big data.
+- otros (ML engineer)
   	
 
 ## ¿Dónde buscar?
@@ -30,7 +33,7 @@ Por otro lado, en ciencia de datos suele haber los siguientes roles:
 
 4) Cuando ya tengas al menos 100 contactos (sí, mandá solicitud de conexión a lo loco), publicá que estás buscando trabajo con x perfil (por ej. como desarrollador back end) y etiquetá a todas las empresas conocidas en donde vivas (por ej. Mercado Libre, Accenture, Despegar, JP Morgan, Naranja X, IBM, etc). A todas etiquetalas. Con suerte alguien de recursos humanos de esas empresas te va a escribir en los comentarios ofreciendote donde podés aplicar.
 
-5) Si aplicaste a más o menos +10 lugares y nadie te respondió, es porque tu CV no está bien hecho. Pedí que alguien vea tu CV.
+5) Si aplicaste a más o menos +5 lugares y nadie te respondió, es porque tu CV no está bien hecho. Pedí que alguien vea tu CV.
 
 ## General
 
